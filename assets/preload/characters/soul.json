@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-29,
+				44
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Soul BF Idle Dance"
+		},
+		{
+			"offsets": [
+				-55,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Soul BF Left Note"
+		},
+		{
+			"offsets": [
+				-75,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Soul BF Note Down"
+		},
+		{
+			"offsets": [
+				-67,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Soul BF Note Up"
+		},
+		{
+			"offsets": [
+				-69,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soul BF Note Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Soul_BF_Assets",
+	"position": [
+		-130,
+		150
+	],
+	"healthicon": "soul",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		180,
+		-70
+	],
+	"sing_duration": 3.7,
+	"scale": 1.2
+}
