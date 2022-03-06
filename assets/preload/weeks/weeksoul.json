@@ -1,0 +1,31 @@
+{
+	"storyName": "Breaking Free (DEMO)",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "mind",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"tormentor",
+			"soul",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Soul BF Week"
+}
