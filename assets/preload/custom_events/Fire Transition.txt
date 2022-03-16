@@ -1,0 +1,4 @@
+fire transition
+
+value 1: opacity
+value 2: speed
