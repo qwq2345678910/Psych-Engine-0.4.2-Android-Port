@@ -1,0 +1,41 @@
+{
+	"storyName": "Flamin' Hot Magma",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"furnace",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ember",
+			"og",
+			[
+				206,
+				0,
+				20
+			]
+		],
+		[
+			"hot-head-bop",
+			"og",
+			[
+				206,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "furnace",
+	"hiddenUntilUnlocked": false
+}
