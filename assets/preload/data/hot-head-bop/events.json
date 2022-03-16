@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "alley",
+		"player1": "bf-furnace",
+		"player2": "furnace",
+		"player3": null,
+		"events": [
+			[
+				93916.6666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"transform"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				95916.6666666666,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"furnace_wireframe"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_cool"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-censor-wireframe"
+					],
+					[
+						"iconBop",
+						"on",
+						""
+					],
+					[
+						"Fire Transition",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				96166.6666666666,
+				[
+					[
+						"Fire Transition",
+						"0",
+						"0.9"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"furnace-nomic"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-furnace"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-censor"
+					],
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-nospeaker",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Hot-Head-Bop"
+	}
+}
