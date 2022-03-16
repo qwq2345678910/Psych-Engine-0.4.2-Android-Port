@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lava wire.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lava wireframe0000" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0001" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0002" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0003" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0004" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0005" x="448" y="5" width="439" height="1125" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0006" x="448" y="5" width="439" height="1125" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0007" x="448" y="5" width="439" height="1125" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0008" x="448" y="5" width="439" height="1125" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0009" x="448" y="5" width="439" height="1125" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0010" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0011" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0012" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0013" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0014" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0015" x="448" y="1135" width="439" height="1105" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0016" x="448" y="1135" width="439" height="1105" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0017" x="448" y="1135" width="439" height="1105" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0018" x="448" y="1135" width="439" height="1105" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0019" x="448" y="1135" width="439" height="1105" frameX="-1" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0020" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0021" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0022" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0023" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+	<SubTexture name="lava wireframe0024" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="440" frameHeight="1125"/>
+</TextureAtlas>

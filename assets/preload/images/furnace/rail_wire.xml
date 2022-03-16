@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rail_wire.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rail wireframe0000" x="10" y="10" width="2366" height="1153"/>
+	<SubTexture name="rail wireframe0001" x="10" y="10" width="2366" height="1153"/>
+	<SubTexture name="rail wireframe0002" x="10" y="10" width="2366" height="1153"/>
+	<SubTexture name="rail wireframe0003" x="10" y="10" width="2366" height="1153"/>
+	<SubTexture name="rail wireframe0004" x="10" y="1173" width="2366" height="1152" frameX="0" frameY="-1" frameWidth="2366" frameHeight="1153"/>
+	<SubTexture name="rail wireframe0005" x="10" y="1173" width="2366" height="1152" frameX="0" frameY="-1" frameWidth="2366" frameHeight="1153"/>
+	<SubTexture name="rail wireframe0006" x="10" y="1173" width="2366" height="1152" frameX="0" frameY="-1" frameWidth="2366" frameHeight="1153"/>
+	<SubTexture name="rail wireframe0007" x="10" y="1173" width="2366" height="1152" frameX="0" frameY="-1" frameWidth="2366" frameHeight="1153"/>
+</TextureAtlas>

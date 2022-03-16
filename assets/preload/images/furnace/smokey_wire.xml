@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smokey wire.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smoke wireframe0000" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0001" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0002" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0003" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0004" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0005" x="5" y="5" width="389" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0006" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0007" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0008" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0009" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0010" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0011" x="399" y="5" width="392" height="592" frameX="0" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0012" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0013" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0014" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0015" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0016" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0017" x="5" y="602" width="399" height="590" frameX="-1" frameY="0" frameWidth="408" frameHeight="592"/>
+	<SubTexture name="smoke wireframe0018" x="409" y="602" width="408" height="592"/>
+	<SubTexture name="smoke wireframe0019" x="409" y="602" width="408" height="592"/>
+	<SubTexture name="smoke wireframe0020" x="409" y="602" width="408" height="592"/>
+	<SubTexture name="smoke wireframe0021" x="409" y="602" width="408" height="592"/>
+	<SubTexture name="smoke wireframe0022" x="409" y="602" width="408" height="592"/>
+	<SubTexture name="smoke wireframe0023" x="409" y="602" width="408" height="592"/>
+</TextureAtlas>

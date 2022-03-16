@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tasty lava.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10001" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10002" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10003" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10004" x="5" y="5" width="438" height="1067" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10005" x="448" y="5" width="438" height="1125"/>
+	<SubTexture name="Symbol 10006" x="448" y="5" width="438" height="1125"/>
+	<SubTexture name="Symbol 10007" x="448" y="5" width="438" height="1125"/>
+	<SubTexture name="Symbol 10008" x="448" y="5" width="438" height="1125"/>
+	<SubTexture name="Symbol 10009" x="448" y="5" width="438" height="1125"/>
+	<SubTexture name="Symbol 10010" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10011" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10012" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10013" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10014" x="5" y="1135" width="438" height="1112" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10015" x="448" y="1135" width="438" height="1105" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10016" x="448" y="1135" width="438" height="1105" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10017" x="448" y="1135" width="438" height="1105" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10018" x="448" y="1135" width="438" height="1105" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10019" x="448" y="1135" width="438" height="1105" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10020" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10021" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10022" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10023" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+	<SubTexture name="Symbol 10024" x="5" y="2252" width="438" height="1087" frameX="0" frameY="0" frameWidth="438" frameHeight="1125"/>
+</TextureAtlas>

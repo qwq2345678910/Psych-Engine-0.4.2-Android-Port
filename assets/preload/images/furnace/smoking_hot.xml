@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoking hot.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 20000" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20001" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20002" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20003" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20004" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20005" x="5" y="5" width="389" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20006" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20007" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20008" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20009" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20010" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20011" x="399" y="5" width="391" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20012" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20013" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20014" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20015" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20016" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20017" x="5" y="600" width="399" height="590" frameX="0" frameY="0" frameWidth="407" frameHeight="590"/>
+	<SubTexture name="Symbol 20018" x="409" y="600" width="407" height="590"/>
+	<SubTexture name="Symbol 20019" x="409" y="600" width="407" height="590"/>
+	<SubTexture name="Symbol 20020" x="409" y="600" width="407" height="590"/>
+	<SubTexture name="Symbol 20021" x="409" y="600" width="407" height="590"/>
+	<SubTexture name="Symbol 20022" x="409" y="600" width="407" height="590"/>
+	<SubTexture name="Symbol 20023" x="409" y="600" width="407" height="590"/>
+</TextureAtlas>
