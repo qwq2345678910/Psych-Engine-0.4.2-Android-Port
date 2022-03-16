@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				67,
+				153
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "transf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty_normal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "og",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

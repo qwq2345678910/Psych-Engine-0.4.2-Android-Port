@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle wireframe"
+		},
+		{
+			"offsets": [
+				113,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left wireframe"
+		},
+		{
+			"offsets": [
+				230,
+				-237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down wireframe"
+		},
+		{
+			"offsets": [
+				134,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up wireframe"
+		},
+		{
+			"offsets": [
+				-10,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right wireframe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wireframe_whitty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "wire",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

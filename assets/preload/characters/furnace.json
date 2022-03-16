@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				43
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bruh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-203
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				153
+			],
+			"anim": "wireframe",
+			"fps": 24,
+			"name": "transf",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hmph",
+			"indices": [],
+			"name": "HMPF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty_normal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "og",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
