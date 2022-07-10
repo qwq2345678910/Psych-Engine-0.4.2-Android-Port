@@ -1,0 +1,55 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mh6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way bro, are we now on a stage?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course, this stage belongs to us tonight!
+"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's my live show soon!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would you like to join us?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then let's decide the performance \\ntrack in the form of battle.
+"
+		}
+	]
+}
