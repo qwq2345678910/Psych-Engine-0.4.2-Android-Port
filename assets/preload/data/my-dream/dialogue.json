@@ -1,0 +1,104 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mh2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh ...? How is it here again?  \\nWho are you?
+"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah!!! I can't believe it really worked *whispers muttering*
+"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait...? What are you talking about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, how can I explain it to you.  \\nWell actually this is just a mod I made, not a real dream"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "emmm ... It’s really hard to explain ..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But let’s just leave it alone, \\n would you like to do me a favor?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know what the situation is,  \\nbut I agreed. My pleasure."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well ...actually I wrote a song,  \\nbut I need someone to accompany me chorus, \\n is it possible if I ask you to join me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure, I'm really good at freestyle!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hooray! That's a great news.  \\nHere’s the score and lyrics"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "umm ...but why this word such strange things like babibo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wx1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol, you don’t have to worry about it.  \\nJust do whatever you want.My friends are on their way coming for the show, \\n they are looking forward to seeing you!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ... fine ....let’s start!"
+		}
+	]
+}
