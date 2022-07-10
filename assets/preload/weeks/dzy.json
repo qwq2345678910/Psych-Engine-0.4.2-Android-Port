@@ -1,0 +1,31 @@
+{
+	"storyName": "bio-sheep",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dzy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bio-sheep",
+			"mh",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "noodles",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"noodles",
+			"mh",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

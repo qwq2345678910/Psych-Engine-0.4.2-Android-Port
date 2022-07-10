@@ -1,0 +1,49 @@
+{
+	"storyName": "marlatinda",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "mldd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hlj",
+			"mldd",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"2019",
+			"mldd",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"pluto",
+			"mldd",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

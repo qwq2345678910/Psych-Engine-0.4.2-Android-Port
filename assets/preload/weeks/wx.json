@@ -1,0 +1,31 @@
+{
+	"storyName": "fog-star",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "wx",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my-dream",
+			"fogstar",
+			[
+				155,
+				120,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
