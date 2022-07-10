@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mldd1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You do have a great job!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not that great! Not as good as you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But look time is limited,\\nwe may not have enough time to wait for the start of live"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's okay, there's enough time left for the last song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? Do you want to choose this song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well. Anyway, there's no one else here,\\nso it doesn't matter how bad we sing"
+		}
+	]
+}

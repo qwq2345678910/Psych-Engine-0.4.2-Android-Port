@@ -1,0 +1,62 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mh4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "? Is it the sound of an alarm clock?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How come the other me suddenly disappeared?
+"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "zz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's almost 8:30, goodbye, \\nlooking forward to seeing you next time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? Wait..I..!
+"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cg1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cg5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cg6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah ... it was a rather wonderful dream..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cg7",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, Good morning my bro"
+		}
+	]
+}
