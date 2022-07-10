@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "emmmm...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "cg1"
+		},
+		{
+			"expression": "talk",
+			"text": "what...",
+			"boxState": "normal",
+			"portrait": "cg2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "......",
+			"boxState": "normal",
+			"portrait": "cg3",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "! ! ! ! ! ???",
+			"boxState": "angry",
+			"portrait": "cg4",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WTF???",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "mh1"
+		},
+		{
+			"expression": "talk",
+			"text": "yo~",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mldd4"
+		},
+		{
+			"expression": "talk",
+			"text": "Jesus! I Did I really dream of the bio sheep?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "mh1"
+		},
+		{
+			"expression": "talk",
+			"text": "No,homie,it's me,I'm not your bio sheep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mldd1"
+		},
+		{
+			"expression": "talk",
+			"text": "So it's you,you brat!\\nI thought you were something weird!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mh7"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "zz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And me!and me!\\nLong time no see!Won't you forget me?"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "mh8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Zhuai?Are..re .. you ...Zhuai...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, hey!Don't get too excited, calm down.\\nWe're all grown-ups! Don't cry out!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way,welcome tu the fantasy world\\nwhich belongs to us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mldd2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Since it's a rare occasion that we meet\\nwhy don't we battle it out?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mh5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let to my liking. Why not!! come on!"
+		}
+	]
+}
